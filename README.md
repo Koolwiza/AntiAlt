@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Anti Alt 👋</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?style=for-the-badge" />
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
