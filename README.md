@@ -10,18 +10,6 @@
 
 ### 🏠 [Homepage](https://github.com/Koolwiza/AntiAlt/tree/main)
 
-## Install
-
-```sh
-npm install
-```
-
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Koolwiza**
