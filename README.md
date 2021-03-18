@@ -8,9 +8,13 @@
 
 > A discord bot to prevent the invasion of alts in your server!
 
-### 🏠 [Homepage](https://github.com/Koolwiza/AntiAlt/tree/main)
+## Installation
 
-## Author
+* Clone the repository or download: `git clone https://github.com/Koolwiza/AntiAlt` or Download Zip
+* Install packages: `npm init`
+* Run the app: `node index.js`
+
+### 🏠 [Homepage](https://github.com/Koolwiza/AntiAlt/tree/main)
 
 👤 **Koolwiza**
 
@@ -20,3 +24,4 @@
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
