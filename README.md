@@ -17,10 +17,6 @@
 * Website: https://www.github.com/Koolwiza
 * Github: [@Koolwiza](https://github.com/Koolwiza)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Koolwiza/AntiAlt/blob/main/.github/ISSUE-TEMPLATE.md). You can also take a look at the [contributing guide](https://github.com/Koolwiza/AntiAlt/blob/main/.github/CONTRIBUTING.md).
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
